@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chalhoub8.
 - 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning R, Python, C and JavaScript.
+- 🌱 I’m currently learning R, Python, C and SQL.
 - 💞️ I’m looking to collaborate on useful algorithms and techniques.
 - 📫 How to reach me carlo_chalhoub@hotmail.com
 
